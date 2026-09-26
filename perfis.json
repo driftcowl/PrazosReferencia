@@ -4,13 +4,13 @@
     {
       "carnaval" : false,
       "corpusChristi" : false,
-      "id" : "1A4335F8-70BB-4D2D-922C-5C7F81639511",
+      "id" : "37376727-6F5E-406D-AFF0-E339EA3CA3F8",
       "linkCalendario" : "https://portal.tjpe.jus.br/web/portal/servicos/consulta/feriados",
       "locais" : [
         {
           "dia" : 6,
           "fonte" : "Lei Estadual nº 16.241/2017, art. 49; TJPE, Ato Conjunto nº 43/2025, art. 1º",
-          "id" : "EBDC6566-E98F-4C7B-B913-8DAF535252D8",
+          "id" : "3118EEDF-7169-402D-A1DE-B2CA6BCDE425",
           "mes" : 3,
           "nome" : "Data Magna de Pernambuco"
         },
@@ -18,7 +18,7 @@
           "ano" : 2026,
           "dia" : 16,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, II",
-          "id" : "CE0D2E8E-95BA-43A3-8D74-C56129208B20",
+          "id" : "7CB5C578-1A74-414B-8DAA-51B37E57F7F8",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -26,7 +26,7 @@
           "ano" : 2026,
           "dia" : 17,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, III",
-          "id" : "A14656A9-E7DA-4D39-8BBB-EF1226B70449",
+          "id" : "E16551B1-E622-47E1-BCEF-E5AF6DFC6EA0",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -34,7 +34,7 @@
           "ano" : 2026,
           "dia" : 18,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, IV",
-          "id" : "46B037E0-BA08-4FC3-8A04-C9019E9F952C",
+          "id" : "033F1CFC-E0A4-4B3B-9B2C-64E21C60E24D",
           "mes" : 2,
           "nome" : "Cinzas"
         },
@@ -42,7 +42,7 @@
           "ano" : 2026,
           "dia" : 2,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, VI",
-          "id" : "0A76DDD4-0085-46D4-B134-447D35B9B2FC",
+          "id" : "AB45AF59-E3CA-4D86-BEBC-F6FD9AE809C9",
           "mes" : 4,
           "nome" : "Semana Santa (Quinta-feira Santa)"
         },
@@ -50,7 +50,7 @@
           "ano" : 2026,
           "dia" : 3,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, VII",
-          "id" : "5FC21B51-9D1B-45B9-885E-BE984910058E",
+          "id" : "1AD88887-C85A-4FB4-A3E4-E2DDD3D74EBF",
           "mes" : 4,
           "nome" : "Semana Santa (Paixão de Cristo)"
         },
@@ -58,7 +58,7 @@
           "ano" : 2026,
           "dia" : 22,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XI",
-          "id" : "02B33E67-94FA-46CB-B76E-061CA1EA8CF5",
+          "id" : "327DECF6-DC0B-44EC-B7EF-F323729E19EE",
           "mes" : 6,
           "nome" : "Corpus Christi (transferido de 04/06)"
         },
@@ -66,7 +66,7 @@
           "ano" : 2026,
           "dia" : 24,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XII",
-          "id" : "C220E843-7282-41D4-862E-3C3886F4D762",
+          "id" : "7C86FDF1-EEB2-4117-8127-F2DA8A2FC4F3",
           "mes" : 6,
           "nome" : "São João"
         },
@@ -74,7 +74,7 @@
           "ano" : 2026,
           "dia" : 10,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XIII",
-          "id" : "D981F7B6-DD3B-48A5-BB0C-88921C34E474",
+          "id" : "1D7F96F6-E4DC-4EBC-A9C8-904FD1DE39E7",
           "mes" : 8,
           "nome" : "Dia dos Cursos Jurídicos (antecipado de 11/08; COJE, art. 94)"
         },
@@ -82,7 +82,7 @@
           "ano" : 2026,
           "dia" : 30,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XVI",
-          "id" : "5FBEFE5B-7D03-48C2-8892-C266754D4F45",
+          "id" : "E06E8E7C-83C5-4E62-9A6C-5C5AD3AA1906",
           "mes" : 10,
           "nome" : "Dia do Servidor Público (transferido de 28/10)"
         },
@@ -90,7 +90,7 @@
           "ano" : 2026,
           "dia" : 8,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XX",
-          "id" : "D68B6632-9A8C-4EE1-9693-C51D8478DDE9",
+          "id" : "94B80F43-20CF-4C47-B7D9-6A0CAF37F85D",
           "mes" : 12,
           "nome" : "Nossa Senhora da Conceição e Dia da Justiça (DL 8.292/1945, art. 1º; DL 1.408/1951, art. 5º)"
         },
@@ -98,7 +98,7 @@
           "ano" : 2027,
           "dia" : 8,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, II",
-          "id" : "7103852F-B9A2-492D-89CE-08100337ED23",
+          "id" : "ABC8F71A-DA01-410F-95E1-AFF18EF64672",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -106,7 +106,7 @@
           "ano" : 2027,
           "dia" : 9,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, III",
-          "id" : "CAA785A9-93B9-4233-BE29-0B56107CBAD4",
+          "id" : "592B56C5-986C-43A4-B3A7-A0D26C1AB861",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -114,7 +114,7 @@
           "ano" : 2027,
           "dia" : 10,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, IV",
-          "id" : "2C151EB4-4A43-4085-BDB1-CD1351819721",
+          "id" : "05CEF443-FAE8-4C3F-82F1-808DA044058E",
           "mes" : 2,
           "nome" : "Cinzas"
         },
@@ -122,7 +122,7 @@
           "ano" : 2027,
           "dia" : 25,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, VI",
-          "id" : "E8EDA915-1A7E-49D3-8FF9-2773DCF907A1",
+          "id" : "7499EF77-6C2D-4426-AC17-A581C2ED585E",
           "mes" : 3,
           "nome" : "Semana Santa (Quinta-feira Santa)"
         },
@@ -130,7 +130,7 @@
           "ano" : 2027,
           "dia" : 26,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, VII",
-          "id" : "8F6A72F3-5A5E-4632-A58F-3E95BA645CB6",
+          "id" : "ECED551F-8B6E-4A76-A693-172D170F0D44",
           "mes" : 3,
           "nome" : "Semana Santa (Paixão de Cristo)"
         },
@@ -138,7 +138,7 @@
           "ano" : 2027,
           "dia" : 28,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XI",
-          "id" : "4150E258-EF6A-44D6-B8B1-17020C0E6E27",
+          "id" : "A678F6A7-2A8E-4960-8C83-2EEA66E7C4DD",
           "mes" : 5,
           "nome" : "Corpus Christi (transferido de 27/05)"
         },
@@ -146,7 +146,7 @@
           "ano" : 2027,
           "dia" : 24,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XII",
-          "id" : "AE56BF54-5AF8-4937-9A08-BE99A2EC66E1",
+          "id" : "DCBD0BAF-265E-48C8-B137-D00B6F86F86E",
           "mes" : 6,
           "nome" : "São João"
         },
@@ -154,7 +154,7 @@
           "ano" : 2027,
           "dia" : 9,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XIII",
-          "id" : "EFD1FFBA-14BC-46A0-9AE3-C5CCECA6E7BF",
+          "id" : "451B6232-11C5-4A6F-9A9A-F4FAF9FAD857",
           "mes" : 8,
           "nome" : "Dia dos Cursos Jurídicos (antecipado de 11/08; COJE, art. 94)"
         },
@@ -162,7 +162,7 @@
           "ano" : 2027,
           "dia" : 29,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XVI",
-          "id" : "AC555E97-6E73-4200-9746-52860371C055",
+          "id" : "1E7A9747-1865-4EFF-B0FA-B32643A29BFA",
           "mes" : 10,
           "nome" : "Dia do Servidor Público (transferido de 28/10)"
         },
@@ -170,7 +170,7 @@
           "ano" : 2027,
           "dia" : 1,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 4º",
-          "id" : "698E72A8-47BB-4D14-AF05-BFB80DB84F42",
+          "id" : "96F563AC-FB99-4632-AFED-A31C6285C6C6",
           "mes" : 11,
           "nome" : "Sem expediente (jornada compensada)"
         },
@@ -178,7 +178,7 @@
           "ano" : 2027,
           "dia" : 8,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XX",
-          "id" : "22A67EEE-87F0-4E9F-8D27-3FD6CB5046B2",
+          "id" : "0804773B-4916-4B0F-97E5-A9F84744CE89",
           "mes" : 12,
           "nome" : "Nossa Senhora da Conceição e Dia da Justiça"
         },
@@ -186,7 +186,7 @@
           "ano" : 2026,
           "dia" : 2,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "B0B0EADD-D520-471D-8354-C56776FE9D2D",
+          "id" : "224B1616-3A35-4EE7-BF60-D79F3A33502E",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -194,7 +194,7 @@
           "ano" : 2027,
           "dia" : 2,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "86875B49-3C22-46AA-BC7F-99219554D417",
+          "id" : "D4AB0265-7295-4875-90F7-95BBD421DBDB",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -202,7 +202,7 @@
           "ano" : 2026,
           "dia" : 3,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "BD2C912A-10F5-4A79-9238-190FDE85D392",
+          "id" : "598A9680-9961-4D82-BD11-360AAF532772",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -210,7 +210,7 @@
           "ano" : 2027,
           "dia" : 3,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "0A26E963-1560-40ED-9145-8A3DA01172C7",
+          "id" : "E7B9D86F-EC4B-484B-9CB4-A8315E401739",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -218,7 +218,7 @@
           "ano" : 2026,
           "dia" : 4,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "8D445BBD-C03E-43AD-8590-E0AD46CB9437",
+          "id" : "08DF9D44-07BC-40CE-AA94-6FC262619049",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -226,7 +226,7 @@
           "ano" : 2027,
           "dia" : 4,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "8AB3C076-EC83-4DFB-9384-1A5F80C1D10F",
+          "id" : "41F8A57C-5A72-4FAE-AE4C-F1FBEE8E4F5A",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -234,7 +234,7 @@
           "ano" : 2026,
           "dia" : 5,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "92A3A7D5-A34F-448B-9B1C-D485C728F22E",
+          "id" : "5619CCF2-BF4E-4E10-89AF-62B4DA73AC71",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -242,7 +242,7 @@
           "ano" : 2027,
           "dia" : 5,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "F16AAB5D-9043-4E13-88D4-D0E11E18D2BF",
+          "id" : "E47E5834-D8FD-4FC7-A856-30EDE2BE63E8",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -250,7 +250,7 @@
           "ano" : 2026,
           "dia" : 6,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "4AC622ED-FD33-4629-95A5-B20539022CB9",
+          "id" : "1545D3BB-50B6-4CFC-81AD-DA70A14ADD37",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -258,7 +258,7 @@
           "ano" : 2027,
           "dia" : 6,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "190AB952-6551-4F8B-81F0-7602C4EDAE4C",
+          "id" : "0B62B614-6432-4713-8CCB-F9F2F5CB2C99",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -266,7 +266,7 @@
           "ano" : 2026,
           "dia" : 23,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "48427987-98FF-47E8-AEAF-6ADCFE281980",
+          "id" : "5A29892B-1477-4817-A02C-AC0DDBD19B32",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -274,7 +274,7 @@
           "ano" : 2027,
           "dia" : 23,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "8CEB6EFC-4CF6-4B31-BED6-E1E59453DD9E",
+          "id" : "28064EB2-1205-4DFC-9EE4-9EE5C27717E8",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -282,7 +282,7 @@
           "ano" : 2026,
           "dia" : 25,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "508F6F99-7D69-4409-AC56-40A818828FF5",
+          "id" : "861E4D3C-1D7A-4046-887C-CB8AA1333DB9",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -290,7 +290,7 @@
           "ano" : 2027,
           "dia" : 25,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "693024F1-2BA3-4C30-8862-D494F31CF59F",
+          "id" : "F760B6EF-0BB6-4F04-A158-900E8D749F08",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -298,7 +298,7 @@
           "ano" : 2026,
           "dia" : 26,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "473B0A6D-4397-4874-B1C6-9EBA7B9C3921",
+          "id" : "7DD2EF9B-7E0F-46DD-A371-5630C9B6935F",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -306,7 +306,7 @@
           "ano" : 2027,
           "dia" : 26,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "80A97100-A282-46C7-A3A8-137D611A9764",
+          "id" : "2BE33B5A-98D9-48EC-A7AC-7D2524A78558",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -314,7 +314,7 @@
           "ano" : 2026,
           "dia" : 27,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "A69DB26A-C7AF-4B6C-99BF-33B0999881C6",
+          "id" : "43722D97-F873-4FD2-9A40-CBF04200580E",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -322,7 +322,7 @@
           "ano" : 2027,
           "dia" : 27,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "319CD810-AAD7-4E3B-95EC-EB0D1A215F16",
+          "id" : "18EC76D5-2F74-45AA-8D42-35898578068E",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -330,7 +330,7 @@
           "ano" : 2026,
           "dia" : 28,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "41E7142E-DEE6-4CCE-BE02-06D8DB9D0216",
+          "id" : "20702D6F-C025-439D-9076-A097665F530B",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -338,7 +338,7 @@
           "ano" : 2027,
           "dia" : 28,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "3BB354CE-C8A4-4F3A-9220-ABBFBC560E0B",
+          "id" : "9715FD5E-66E2-42C6-BF7C-1CB7334EEEC0",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -346,7 +346,7 @@
           "ano" : 2026,
           "dia" : 29,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "4FA4F614-F84F-4CD1-9CFB-86E6FC7298E5",
+          "id" : "37688C05-67E0-427B-B31C-D9246787B020",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -354,7 +354,7 @@
           "ano" : 2027,
           "dia" : 29,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "F9D04A32-8D1F-4EAA-8015-FBBF332BE44B",
+          "id" : "B1EB2537-71BF-4D1D-B590-35728CA6548B",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -362,7 +362,7 @@
           "ano" : 2026,
           "dia" : 30,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "EE8B6011-7206-4A8A-88EA-1E21E8C359BF",
+          "id" : "8084C881-A451-41DB-A93F-C01A71B78735",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -370,7 +370,7 @@
           "ano" : 2027,
           "dia" : 30,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "1BB34511-F3F7-401E-8083-A74085DE751D",
+          "id" : "135411A0-5B90-4A5D-B1AD-9C14FC933144",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -378,7 +378,7 @@
           "ano" : 2026,
           "dia" : 20,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "FD043443-53CC-47B8-9532-375273CF05F6",
+          "id" : "FD5341A5-0F06-43FF-9A8C-5D3A144FABDE",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -386,7 +386,7 @@
           "ano" : 2027,
           "dia" : 20,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "322892C4-638B-4CB8-8EF2-13A291CDB511",
+          "id" : "171ABDAA-A3C3-4862-89FB-BFC5058DED0A",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -394,7 +394,7 @@
           "ano" : 2026,
           "dia" : 21,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "0C423CBE-B908-431C-AD53-36CB213CADA6",
+          "id" : "37FFA719-A01A-4077-BA43-B571C398971C",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -402,7 +402,7 @@
           "ano" : 2027,
           "dia" : 21,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "F1A7B743-214B-4EC3-82A0-3FA4E6AB9026",
+          "id" : "A1085BF5-A422-4948-A5D1-97ABCE910FB2",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -410,7 +410,7 @@
           "ano" : 2026,
           "dia" : 22,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "040E2740-AD54-406A-B92F-8CF76BC79C0E",
+          "id" : "FD349AA5-D62A-4441-96F2-208365BAE01A",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -418,7 +418,7 @@
           "ano" : 2027,
           "dia" : 22,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "F14E2DD6-4230-4BE2-8063-D74074EDBD5C",
+          "id" : "5A014223-8C04-483B-9177-70F1083E7C95",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -426,7 +426,7 @@
           "ano" : 2026,
           "dia" : 23,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "31727E82-8E38-4E20-BA99-BB535BC69C3A",
+          "id" : "65350EBB-EFEB-4551-97FA-D2017E429C3F",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -434,7 +434,7 @@
           "ano" : 2027,
           "dia" : 23,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "ED235B32-7960-4C18-8AE3-0DD50892D759",
+          "id" : "F0AF2039-4F89-4A5C-A537-05BFD48A05AA",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -442,7 +442,7 @@
           "ano" : 2026,
           "dia" : 24,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "76D1F4E9-5111-4E6D-9315-2C956709782E",
+          "id" : "AF12CE6C-7E6A-4465-BDA2-8829E912E67E",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -450,7 +450,7 @@
           "ano" : 2027,
           "dia" : 24,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "7FDE443F-193B-4DCD-B02B-604DFB01DDAF",
+          "id" : "62622B89-9311-4692-A91D-E771E28A9AD2",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -458,7 +458,7 @@
           "ano" : 2026,
           "dia" : 26,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "9217BD59-7754-4A24-904E-4ADB34A0D9A3",
+          "id" : "F09943E2-FA5C-4311-A33F-49FBA6E20F16",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -466,7 +466,7 @@
           "ano" : 2027,
           "dia" : 26,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "C1FF662F-24C7-4D63-8285-4866C3A5FADB",
+          "id" : "48A01820-9EC6-47D4-919B-0BD25069D2F9",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -474,7 +474,7 @@
           "ano" : 2026,
           "dia" : 27,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "76564984-D146-468B-BFD4-FD20E588B242",
+          "id" : "1FF3929C-D025-4DEA-9A8E-49629C826521",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -482,7 +482,7 @@
           "ano" : 2027,
           "dia" : 27,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "A5B1F148-96F9-4C60-B96E-1AF5CBB90CB2",
+          "id" : "01551697-A459-4AAE-A6FF-3FBF1F05F1FD",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -490,7 +490,7 @@
           "ano" : 2026,
           "dia" : 28,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "BB40C7DD-D27C-48B7-BD53-F325AD2A6900",
+          "id" : "07969804-25B6-4DA3-9029-14F109F37FFC",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -498,7 +498,7 @@
           "ano" : 2027,
           "dia" : 28,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "0749196B-15FF-4DA4-BCB1-C51F1767BAB5",
+          "id" : "FB9757D4-068B-4C52-815A-098984C8C920",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -506,7 +506,7 @@
           "ano" : 2026,
           "dia" : 29,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "C3C3F401-7359-49B7-B53B-A246BB14FF26",
+          "id" : "FA9A41F6-B8D7-4DD5-A763-102CEB48BD10",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -514,7 +514,7 @@
           "ano" : 2027,
           "dia" : 29,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "856D1389-286A-4D35-A5DD-7A6A21012CC1",
+          "id" : "BEEAFDA4-8360-4DD8-A6B9-32C310FFC91E",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -522,7 +522,7 @@
           "ano" : 2026,
           "dia" : 30,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "2D0489AF-87B6-45E7-A402-58392F322564",
+          "id" : "74DFD5E1-3C87-48C5-A879-E87666FBD9E2",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -530,7 +530,7 @@
           "ano" : 2027,
           "dia" : 30,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "6ED8C30A-02D5-4332-9711-84482422D60F",
+          "id" : "6D229AF7-34C9-4745-A190-1448E5689936",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -538,7 +538,7 @@
           "ano" : 2026,
           "dia" : 31,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "F30D0D72-2AE8-4943-BCA7-D619C7BF6ACB",
+          "id" : "3A24A99F-3541-4560-81F5-55D5246CC96F",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -546,7 +546,7 @@
           "ano" : 2027,
           "dia" : 31,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "623A479D-94DB-47B9-969D-9F2840C92CDA",
+          "id" : "0F9F0A7E-AF8C-41E0-933F-162528B38943",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -554,7 +554,7 @@
           "ano" : 2026,
           "dia" : 16,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 2º",
-          "id" : "5C049DFB-3FD2-43B3-A161-1EF013256CCF",
+          "id" : "7828783F-D3A2-4246-B954-6B93FD4F349C",
           "mes" : 7,
           "nome" : "Nossa Senhora do Carmo (feriado municipal do Recife)"
         },
@@ -562,7 +562,7 @@
           "ano" : 2027,
           "dia" : 16,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 2º",
-          "id" : "38E7E692-4124-4E62-8F84-62BF8D84F158",
+          "id" : "4467FFD6-6B08-490C-94CE-D66FCA002A72",
           "mes" : 7,
           "nome" : "Nossa Senhora do Carmo (feriado municipal do Recife)"
         }
@@ -576,13 +576,13 @@
     {
       "carnaval" : false,
       "corpusChristi" : false,
-      "id" : "CB95735C-1E1A-4E71-A94E-A4D042A94ED5",
+      "id" : "8A58E21B-500E-453F-8D81-30F2791611B4",
       "linkCalendario" : "https://portal.tjpe.jus.br/web/portal/servicos/consulta/feriados",
       "locais" : [
         {
           "dia" : 6,
           "fonte" : "Lei Estadual nº 16.241/2017, art. 49; TJPE, Ato Conjunto nº 43/2025, art. 1º",
-          "id" : "C289231F-797F-4B53-AFE0-422495DD22A4",
+          "id" : "F9876C5B-4234-4A4E-B196-EB259279BFC1",
           "mes" : 3,
           "nome" : "Data Magna de Pernambuco"
         },
@@ -590,7 +590,7 @@
           "ano" : 2026,
           "dia" : 16,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, II",
-          "id" : "598A1C08-6E6A-422A-B38B-30F6EF34C2C5",
+          "id" : "C91786C8-F82E-4258-B0E8-02D08886AD7A",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -598,7 +598,7 @@
           "ano" : 2026,
           "dia" : 17,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, III",
-          "id" : "8863E2C0-FB72-49FB-ABE2-D1E67DC53DCF",
+          "id" : "6AC7EF94-6142-40CC-8FA9-2889E9034B46",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -606,7 +606,7 @@
           "ano" : 2026,
           "dia" : 18,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, IV",
-          "id" : "AD5F24B6-F5CB-48BF-9E53-BBD9C99D7316",
+          "id" : "EE271966-1524-48C9-8AD8-1B9244274990",
           "mes" : 2,
           "nome" : "Cinzas"
         },
@@ -614,7 +614,7 @@
           "ano" : 2026,
           "dia" : 2,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, VI",
-          "id" : "7F44C8E7-7491-4A3D-8EF1-326994024A27",
+          "id" : "BAF9C4B7-D835-4B5D-9DBD-31AC39714CFA",
           "mes" : 4,
           "nome" : "Semana Santa (Quinta-feira Santa)"
         },
@@ -622,7 +622,7 @@
           "ano" : 2026,
           "dia" : 3,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, VII",
-          "id" : "472CB00F-11F2-4655-A57D-8E609798EC37",
+          "id" : "5C691A7B-4003-436B-91CC-1C1302D0A478",
           "mes" : 4,
           "nome" : "Semana Santa (Paixão de Cristo)"
         },
@@ -630,7 +630,7 @@
           "ano" : 2026,
           "dia" : 22,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XI",
-          "id" : "641120D7-483E-41B9-B44D-54B109D3B621",
+          "id" : "16A49D17-4F77-4777-8292-C9EE716FD1C3",
           "mes" : 6,
           "nome" : "Corpus Christi (transferido de 04/06)"
         },
@@ -638,7 +638,7 @@
           "ano" : 2026,
           "dia" : 24,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XII",
-          "id" : "3FCDA915-F3F5-4966-BC9D-ED9E288A84BC",
+          "id" : "857C0CBF-4BAF-49EA-8EE0-8495DBB94D28",
           "mes" : 6,
           "nome" : "São João"
         },
@@ -646,7 +646,7 @@
           "ano" : 2026,
           "dia" : 10,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XIII",
-          "id" : "D8809EE0-55BF-43D1-A29F-AD6DA171809C",
+          "id" : "9C022B57-1ACC-41DD-97C2-8462A22A5AD4",
           "mes" : 8,
           "nome" : "Dia dos Cursos Jurídicos (antecipado de 11/08; COJE, art. 94)"
         },
@@ -654,7 +654,7 @@
           "ano" : 2026,
           "dia" : 30,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XVI",
-          "id" : "FD46F8BD-D8E5-4600-95AE-7756D01D6FB7",
+          "id" : "6BD14389-51D5-4A9F-A2BD-C6AB009723E2",
           "mes" : 10,
           "nome" : "Dia do Servidor Público (transferido de 28/10)"
         },
@@ -662,7 +662,7 @@
           "ano" : 2026,
           "dia" : 8,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, XX",
-          "id" : "E4A41D3C-16B1-4447-ADD5-BF159C594DCC",
+          "id" : "257E8123-4D80-46F8-B5B8-3FC71B16DC5D",
           "mes" : 12,
           "nome" : "Nossa Senhora da Conceição e Dia da Justiça (DL 8.292/1945, art. 1º; DL 1.408/1951, art. 5º)"
         },
@@ -670,7 +670,7 @@
           "ano" : 2027,
           "dia" : 8,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, II",
-          "id" : "EEA5E096-2597-4336-AA11-6AE0EA361BE3",
+          "id" : "0E7173B4-4FDF-416A-894B-5009BDFD17F3",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -678,7 +678,7 @@
           "ano" : 2027,
           "dia" : 9,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, III",
-          "id" : "B7D94AB4-8289-43A3-B481-DB900E70EB7E",
+          "id" : "18A545B2-8A7D-4F76-AC18-B20F6F187087",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -686,7 +686,7 @@
           "ano" : 2027,
           "dia" : 10,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, IV",
-          "id" : "EB04496A-F86F-41CB-8339-A20A6C839308",
+          "id" : "F980629F-D26F-458F-B7C6-BEF7D6853EDA",
           "mes" : 2,
           "nome" : "Cinzas"
         },
@@ -694,7 +694,7 @@
           "ano" : 2027,
           "dia" : 25,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, VI",
-          "id" : "107AECA8-1AB6-4557-8529-173DE36A6E29",
+          "id" : "A3863663-62B5-40EA-9DA5-A25ADA557436",
           "mes" : 3,
           "nome" : "Semana Santa (Quinta-feira Santa)"
         },
@@ -702,7 +702,7 @@
           "ano" : 2027,
           "dia" : 26,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, VII",
-          "id" : "029DC512-19C9-4311-8EF2-BD50FCD1F599",
+          "id" : "C9DE3AF5-8C01-4949-90BB-A9832ED02B95",
           "mes" : 3,
           "nome" : "Semana Santa (Paixão de Cristo)"
         },
@@ -710,7 +710,7 @@
           "ano" : 2027,
           "dia" : 28,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XI",
-          "id" : "218A5064-0F2A-4191-BEB0-8AFE55ED6358",
+          "id" : "7CF3852C-3C4C-490B-A6EE-FB1510EEF92A",
           "mes" : 5,
           "nome" : "Corpus Christi (transferido de 27/05)"
         },
@@ -718,7 +718,7 @@
           "ano" : 2027,
           "dia" : 24,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XII",
-          "id" : "97291A85-3F5E-4BF0-8551-2C19563A2B0F",
+          "id" : "E32772BE-5366-468D-ACA9-1D9201BA7CEB",
           "mes" : 6,
           "nome" : "São João"
         },
@@ -726,7 +726,7 @@
           "ano" : 2027,
           "dia" : 9,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XIII",
-          "id" : "E24C63B8-495F-41A9-8726-B14A4CD4EA58",
+          "id" : "C92DC373-D25C-4BFF-A6AF-E5C6F143D5B9",
           "mes" : 8,
           "nome" : "Dia dos Cursos Jurídicos (antecipado de 11/08; COJE, art. 94)"
         },
@@ -734,7 +734,7 @@
           "ano" : 2027,
           "dia" : 29,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XVI",
-          "id" : "DC8C6695-143A-4126-9A5F-669817A82A30",
+          "id" : "BC9D3BB9-0102-47C9-A4BE-55F7B986881A",
           "mes" : 10,
           "nome" : "Dia do Servidor Público (transferido de 28/10)"
         },
@@ -742,7 +742,7 @@
           "ano" : 2027,
           "dia" : 1,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 4º",
-          "id" : "BDD4E101-F76F-45AA-B31C-053F6B891CF0",
+          "id" : "5FD1EAB0-A012-4D62-AD72-61B43BD2352A",
           "mes" : 11,
           "nome" : "Sem expediente (jornada compensada)"
         },
@@ -750,7 +750,7 @@
           "ano" : 2027,
           "dia" : 8,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, XX",
-          "id" : "46EAEDFC-A2D7-45BB-9102-B988D5EDFBD9",
+          "id" : "48B61F93-8765-4203-B947-69C9BBC2DF84",
           "mes" : 12,
           "nome" : "Nossa Senhora da Conceição e Dia da Justiça"
         },
@@ -758,7 +758,7 @@
           "ano" : 2026,
           "dia" : 2,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "13B51F1E-902B-4797-9886-4C4699E2CF74",
+          "id" : "4EE9C789-A824-4270-B371-611E97B1DDE8",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -766,7 +766,7 @@
           "ano" : 2027,
           "dia" : 2,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "6DED1190-F0DA-4EB1-8C48-F4FACFF68758",
+          "id" : "7E783A53-BCF6-4336-95A8-6705BC25B5BC",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -774,7 +774,7 @@
           "ano" : 2026,
           "dia" : 3,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "1D15FA6D-AE7E-4176-8E53-4218016E5F1E",
+          "id" : "019FD908-BE92-4A84-92BB-25892A55FEFC",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -782,7 +782,7 @@
           "ano" : 2027,
           "dia" : 3,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "2DC4B2D2-E507-4E10-9C43-3673BFA9DF09",
+          "id" : "F7DDFA3C-DB06-4DDE-B3BD-A220D39ED17E",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -790,7 +790,7 @@
           "ano" : 2026,
           "dia" : 4,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "57ADA97E-24E1-43BA-9406-638F08E65220",
+          "id" : "EEB80176-FD91-4943-BDC2-A6DBB2473B84",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -798,7 +798,7 @@
           "ano" : 2027,
           "dia" : 4,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "43E279D0-4FED-4BF4-9017-28516FA51C51",
+          "id" : "4516C03A-FA12-4827-908A-B00EA49C15FE",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -806,7 +806,7 @@
           "ano" : 2026,
           "dia" : 5,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "5F342203-4D49-495C-95B1-26517A7ADC4A",
+          "id" : "0C7525E9-9C15-4B9F-9D4A-53984C1F1FFA",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -814,7 +814,7 @@
           "ano" : 2027,
           "dia" : 5,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "EB7B789B-3356-48E4-ADBC-7EF877D17CF3",
+          "id" : "E455774A-27EB-46F7-ACA6-7D60543F6C28",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -822,7 +822,7 @@
           "ano" : 2026,
           "dia" : 6,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "9C719E7C-8438-4DF8-8A9C-2370B7D4413E",
+          "id" : "403E619A-E727-43F0-907D-D9DE32D44F2C",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -830,7 +830,7 @@
           "ano" : 2027,
           "dia" : 6,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "307EA198-D10D-463A-A421-E7D0C322EEA2",
+          "id" : "C6368786-7E8B-43E6-87D8-3ACDEC23F44D",
           "mes" : 1,
           "nome" : "Feriado forense de janeiro (COJE, art. 94)"
         },
@@ -838,7 +838,7 @@
           "ano" : 2026,
           "dia" : 23,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "DC3EA565-C4CD-45FC-93C7-0A66B820D9FB",
+          "id" : "563566E0-A4ED-40F1-8B8C-38D18BD655DD",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -846,7 +846,7 @@
           "ano" : 2027,
           "dia" : 23,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "A57E1EDC-CF59-49AA-A551-C599454BD0F7",
+          "id" : "62881827-5682-4AAA-A7B4-CE0B17F0A4FF",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -854,7 +854,7 @@
           "ano" : 2026,
           "dia" : 25,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "35D91765-DEA5-4E69-B9C6-B49140318E96",
+          "id" : "B201A262-1ED4-4A4B-A713-414ACFD6BB3B",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -862,7 +862,7 @@
           "ano" : 2027,
           "dia" : 25,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "D5F8AECB-A6E7-4BED-8651-19023274BBD4",
+          "id" : "DF7DA49A-EE93-4037-878C-E350FD183A1C",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -870,7 +870,7 @@
           "ano" : 2026,
           "dia" : 26,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "02B3F243-A22D-487B-982B-B5A009D523EA",
+          "id" : "57271120-54A6-4054-8F99-F868CDCD5B12",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -878,7 +878,7 @@
           "ano" : 2027,
           "dia" : 26,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "A1D0B2F6-26BE-486E-A6F0-A0B869585D69",
+          "id" : "98522BAF-C296-4D20-98E4-B722C2E760FA",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -886,7 +886,7 @@
           "ano" : 2026,
           "dia" : 27,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "63980461-BD84-4C45-B205-3A400F5D5FDC",
+          "id" : "C8A2A6C7-A530-4D1A-BC65-0130140EA146",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -894,7 +894,7 @@
           "ano" : 2027,
           "dia" : 27,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "A83CC207-BE49-4281-9F1B-BB4788D14974",
+          "id" : "B7849D54-A3C1-439B-8CD5-FD2417724F90",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -902,7 +902,7 @@
           "ano" : 2026,
           "dia" : 28,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "3DCA135C-58E7-4F35-8A15-BA8BC88DC9CD",
+          "id" : "A787695F-5781-4924-8828-A23531F827FD",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -910,7 +910,7 @@
           "ano" : 2027,
           "dia" : 28,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "26DB5F3D-2D97-426C-80B3-D0983F54D358",
+          "id" : "1CBDB033-08F0-4218-B582-F26D5FF58E02",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -918,7 +918,7 @@
           "ano" : 2026,
           "dia" : 29,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "8502AD53-F620-4A6B-BB4C-94DC92C92A37",
+          "id" : "2F1930D9-77E5-4D8B-BDF0-26EE995C53F5",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -926,7 +926,7 @@
           "ano" : 2027,
           "dia" : 29,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "B28474B7-F606-4670-B6FA-FAC3A6663BE9",
+          "id" : "7C492116-F949-4B07-9C98-2D5C7906D546",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -934,7 +934,7 @@
           "ano" : 2026,
           "dia" : 30,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "9BC35BFC-1731-4356-A255-2EF73C20F0B7",
+          "id" : "0CEBFE64-D69C-44C7-957D-8CFA77C93D8A",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -942,7 +942,7 @@
           "ano" : 2027,
           "dia" : 30,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "561DC3BB-D9F0-4CC8-8E10-014AB28F7919",
+          "id" : "55A4DD40-9F87-496D-89A0-F38BAC70F21D",
           "mes" : 6,
           "nome" : "Feriado forense de junho (COJE, art. 94)"
         },
@@ -950,7 +950,7 @@
           "ano" : 2026,
           "dia" : 20,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "B4BBD5C8-1724-4303-BBE1-D2F1D5C64D1D",
+          "id" : "734EE2C2-F2C4-4895-BE9F-59D98F82EE0F",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -958,7 +958,7 @@
           "ano" : 2027,
           "dia" : 20,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "E4E5D42D-B44E-41BF-8422-DC90341AEB7E",
+          "id" : "1435F745-B22F-4999-A1EF-F7939EDDD6D2",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -966,7 +966,7 @@
           "ano" : 2026,
           "dia" : 21,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "BE7AED25-3F35-437C-8996-6FC7D4E07D2D",
+          "id" : "F6EE2B51-EC25-4933-891D-D1CC2F02407A",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -974,7 +974,7 @@
           "ano" : 2027,
           "dia" : 21,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "C6A6885F-DC08-4261-BA51-9ED8B0D14915",
+          "id" : "E2EA1CAF-A8F9-4176-9EF8-72DBD78E6C02",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -982,7 +982,7 @@
           "ano" : 2026,
           "dia" : 22,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "403BB3B5-777E-4927-8F76-7692F634BBAA",
+          "id" : "19CBBB05-53E5-4651-80FC-411AC032B79D",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -990,7 +990,7 @@
           "ano" : 2027,
           "dia" : 22,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "D71BD0BD-8C0F-42D9-81C5-1A8BAFBDC768",
+          "id" : "CF8A7BC8-7FBD-4249-96DD-B59C3D30A7B7",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -998,7 +998,7 @@
           "ano" : 2026,
           "dia" : 23,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "F170194E-0B9D-47B2-9A2C-56097F736E5B",
+          "id" : "92CFE932-9B43-4874-AA36-3CDBB8427C7F",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1006,7 +1006,7 @@
           "ano" : 2027,
           "dia" : 23,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "4573657F-28FB-43F3-AF81-E0B33A29342A",
+          "id" : "2789C2B9-B543-46C8-81E4-7A1F905D9874",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1014,7 +1014,7 @@
           "ano" : 2026,
           "dia" : 24,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "FCF0E074-E710-43E2-9D59-E82D4A510107",
+          "id" : "11D1C04E-91B4-4184-8B30-03BE9A14A538",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1022,7 +1022,7 @@
           "ano" : 2027,
           "dia" : 24,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "C3409AB4-201D-43C1-B05D-061322561EDA",
+          "id" : "B75A50B5-6D01-47B2-BDD1-06AA6B418637",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1030,7 +1030,7 @@
           "ano" : 2026,
           "dia" : 26,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "1661CF8E-CB66-4FC9-A71E-D442A324B441",
+          "id" : "7271C0A2-9DBB-4B11-96F7-C2E9F3497D3B",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1038,7 +1038,7 @@
           "ano" : 2027,
           "dia" : 26,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "3BE1C83C-50D1-4396-A8ED-42D844BF8C72",
+          "id" : "43C29226-8E0F-48C1-BB8C-11294DF248C0",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1046,7 +1046,7 @@
           "ano" : 2026,
           "dia" : 27,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "6CF3DABD-ECAD-4D88-A98C-02D21664161A",
+          "id" : "860FCDE0-38E9-44C0-92CE-A1B2F63425DE",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1054,7 +1054,7 @@
           "ano" : 2027,
           "dia" : 27,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "B5B2E65E-F94A-4933-B29D-A7B325691632",
+          "id" : "591C9265-C0F9-4C6B-BD05-E874A6799D90",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1062,7 +1062,7 @@
           "ano" : 2026,
           "dia" : 28,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "C51CC0F4-5301-42E4-8AC5-813999274E44",
+          "id" : "3D1E22B7-01CA-465A-9428-D5DD8B0BE8F4",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1070,7 +1070,7 @@
           "ano" : 2027,
           "dia" : 28,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "0D4C3629-12F9-4F06-A31E-12FA32CA7EB0",
+          "id" : "7373EC08-A026-4316-AD79-82574415CBB1",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1078,7 +1078,7 @@
           "ano" : 2026,
           "dia" : 29,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "3E00413F-C564-4D12-A68A-B477C8CB5989",
+          "id" : "9CF209D9-993B-4CD3-8C5F-5A3B3CA7A525",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1086,7 +1086,7 @@
           "ano" : 2027,
           "dia" : 29,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "3E591B6C-37C9-4063-AA8F-D9E50A8090C2",
+          "id" : "D77D0862-D73A-4293-B5AC-F01CB3088D25",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1094,7 +1094,7 @@
           "ano" : 2026,
           "dia" : 30,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "6A88FB6F-6CD4-4A19-9205-059CB351E24A",
+          "id" : "A4D5C21D-E615-4D49-B401-251D09D90B3E",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1102,7 +1102,7 @@
           "ano" : 2027,
           "dia" : 30,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "C43A1ED5-EF1A-4AEC-8A93-1F31C148E9CF",
+          "id" : "11FBF96B-E2BA-4754-BC28-03A703CCA68F",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1110,7 +1110,7 @@
           "ano" : 2026,
           "dia" : 31,
           "fonte" : "TJPE, Ato Conjunto nº 43/2025, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "9F808CED-1AD1-46FE-8271-4AE8FF490975",
+          "id" : "738625AB-D525-4923-A0DE-003DE83A08B3",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         },
@@ -1118,7 +1118,7 @@
           "ano" : 2027,
           "dia" : 31,
           "fonte" : "TJPE, Ato nº 1502/2026, art. 1º, p. único (COJE, art. 94; Res. TJPE 520/2024)",
-          "id" : "1270BE3B-2D76-49F0-AA1F-944DB2BFEE14",
+          "id" : "ED9B7E82-8A2B-4983-A75C-C83F34061DEA",
           "mes" : 12,
           "nome" : "Feriado forense de dezembro (COJE, art. 94)"
         }
@@ -1132,13 +1132,13 @@
     {
       "carnaval" : false,
       "corpusChristi" : false,
-      "id" : "C6B4CBD6-6798-4C39-B58F-171343D5FA14",
+      "id" : "74CA5D40-A722-4A50-ACD9-2001368A32CE",
       "linkCalendario" : "https://www.trt6.jus.br/portal/feriados-locais",
       "locais" : [
         {
           "dia" : 6,
           "fonte" : "Lei nº 16.059/2017 c/c Lei nº 16.241/2017, art. 49; TRT6, Portaria GP nº 495/2025, art. 1º",
-          "id" : "224C75A6-64EF-45CA-8B10-E348A7E15D25",
+          "id" : "9C949C49-6835-42C5-B617-E096C772AD48",
           "mes" : 3,
           "nome" : "Data Magna de Pernambuco"
         },
@@ -1146,7 +1146,7 @@
           "ano" : 2026,
           "dia" : 16,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, III)",
-          "id" : "0EE8B5EF-2166-4CFA-BA99-1BAC93A7CAE8",
+          "id" : "148637F5-F66E-4D90-A161-9E7E852FF887",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -1154,7 +1154,7 @@
           "ano" : 2026,
           "dia" : 17,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, III)",
-          "id" : "415AC034-B1A1-47BA-BCF5-28ADFE395E70",
+          "id" : "EA77C571-21F9-4B01-8830-A09958E9BA96",
           "mes" : 2,
           "nome" : "Carnaval"
         },
@@ -1162,7 +1162,7 @@
           "ano" : 2026,
           "dia" : 18,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (RI, art. 286, b)",
-          "id" : "EADA7948-78CD-48BE-A9FA-FAA762E90843",
+          "id" : "A80DD656-F42A-4315-8749-8CECA03FE951",
           "mes" : 2,
           "nome" : "Cinzas (feriado regimental)"
         },
@@ -1170,7 +1170,7 @@
           "ano" : 2026,
           "dia" : 1,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, II)",
-          "id" : "4E5A1023-F1C3-48C7-B79A-583E54DCCFC5",
+          "id" : "EE5EE66D-3654-40BD-BC0D-70FD0015EA60",
           "mes" : 4,
           "nome" : "Semana Santa"
         },
@@ -1178,7 +1178,7 @@
           "ano" : 2026,
           "dia" : 2,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º",
-          "id" : "EC592C9D-856F-4527-8D53-6C07B8648AC5",
+          "id" : "823DA008-1F65-4E1A-A8FB-9368A91F0492",
           "mes" : 4,
           "nome" : "Semana Santa"
         },
@@ -1186,7 +1186,7 @@
           "ano" : 2026,
           "dia" : 3,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º",
-          "id" : "CD4D0DD6-26F2-4C92-896B-1392D3A87F57",
+          "id" : "719EB692-B159-415C-B9A2-7246A4125BE5",
           "mes" : 4,
           "nome" : "Semana Santa"
         },
@@ -1194,7 +1194,7 @@
           "ano" : 2026,
           "dia" : 23,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º",
-          "id" : "318B0C3E-BBB8-41A2-A53F-8D4FF8887271",
+          "id" : "784A45C2-1D80-41D6-8FAA-FFE476203AD4",
           "mes" : 6,
           "nome" : "Corpus Christi (adiado de 04/06)"
         },
@@ -1202,7 +1202,7 @@
           "ano" : 2026,
           "dia" : 24,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (RI, art. 286, c)",
-          "id" : "9713FFE9-0325-4354-B5D2-225D216B60AF",
+          "id" : "E7055CDC-6D50-4495-AA60-34A953675B6D",
           "mes" : 6,
           "nome" : "São João (feriado regimental)"
         },
@@ -1210,7 +1210,7 @@
           "ano" : 2026,
           "dia" : 11,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, IV)",
-          "id" : "B11B6BB7-FFB6-4A33-98F6-4543DA3DF6F8",
+          "id" : "A101234D-5AF4-492E-A07C-BD7BD656E41A",
           "mes" : 8,
           "nome" : "Criação dos Cursos Jurídicos"
         },
@@ -1218,7 +1218,7 @@
           "ano" : 2026,
           "dia" : 30,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 8.112/1990, art. 236)",
-          "id" : "7244BC6F-4CD4-4395-830B-C8FC0A0E1503",
+          "id" : "F947AC8D-72FB-48AD-8564-272FA07F62AE",
           "mes" : 10,
           "nome" : "Dia do Servidor Público (adiado de 28/10)"
         },
@@ -1226,7 +1226,7 @@
           "ano" : 2026,
           "dia" : 8,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (DL 8.292/1945; Lei nº 5.010/1966, art. 62, IV)",
-          "id" : "517C6879-7D20-47FA-8405-C3D1437B6E8D",
+          "id" : "4BC53668-D818-44B8-AC32-D98DCEA43F84",
           "mes" : 12,
           "nome" : "Dia Consagrado à Justiça"
         },
@@ -1234,7 +1234,7 @@
           "ano" : 2026,
           "dia" : 1,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "AC5A5144-B46D-431B-87E3-691DC4BAB8F5",
+          "id" : "2D8BD90C-C4B3-4449-92E1-7192D6F7399F",
           "mes" : 1,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1242,7 +1242,7 @@
           "ano" : 2026,
           "dia" : 2,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "5379BF29-AF6C-4368-963E-95FDD8A36544",
+          "id" : "8C74638D-DF18-49DC-97D6-DBE1D7364E76",
           "mes" : 1,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1250,7 +1250,7 @@
           "ano" : 2026,
           "dia" : 3,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "CA44FE74-8EC0-424F-B6CB-BE0234B73877",
+          "id" : "C72195A3-F62F-4D45-BDE2-B5696CA486C1",
           "mes" : 1,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1258,7 +1258,7 @@
           "ano" : 2026,
           "dia" : 4,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "B37FCCCB-3D48-4433-BC83-D181949FAC8C",
+          "id" : "E062D5CC-BDD3-48C0-A30A-0B9C0FBFB2BD",
           "mes" : 1,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1266,7 +1266,7 @@
           "ano" : 2026,
           "dia" : 5,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "D171C29B-813F-4102-A05B-3D0A4EFFE1BF",
+          "id" : "39BAA62A-A33E-4666-95F5-A82430EDCBB7",
           "mes" : 1,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1274,7 +1274,7 @@
           "ano" : 2026,
           "dia" : 6,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "0F7E87FA-D33B-4277-90EE-3DAA3EFF0274",
+          "id" : "D4438E65-A417-44EF-B38A-D6CE1FA79C66",
           "mes" : 1,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1282,7 +1282,7 @@
           "ano" : 2026,
           "dia" : 21,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "9E2E8EAE-4411-4A17-A80D-218E1A1C7BFD",
+          "id" : "0FEC4E7A-984F-4EF7-8C06-1D1A62201A61",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1290,7 +1290,7 @@
           "ano" : 2026,
           "dia" : 22,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "79FFCED8-D1B7-459A-BFF5-06E68AA9CD8B",
+          "id" : "4E03E373-2CE7-4F64-92F2-A8F56CABDA56",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1298,7 +1298,7 @@
           "ano" : 2026,
           "dia" : 23,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "41FD59F8-1FA7-4B1C-8E79-59857E9E0BEE",
+          "id" : "C33778BB-1B77-4922-B2C1-0EED0F36A0C8",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1306,7 +1306,7 @@
           "ano" : 2026,
           "dia" : 24,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "1A8158F5-FED7-4B02-9D0D-48A377450066",
+          "id" : "83E2FCB9-B7F6-4FC1-B708-A34652E17EF5",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1314,7 +1314,7 @@
           "ano" : 2026,
           "dia" : 25,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "B76EF880-5D09-4647-9382-71EE7E90F11F",
+          "id" : "A1BDDEA7-5DF7-428E-9BEA-342C8216DB30",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1322,7 +1322,7 @@
           "ano" : 2026,
           "dia" : 26,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "B555E2B8-65D1-4CCB-9EB0-C46868E1FE02",
+          "id" : "6EE7AD67-533B-43E6-BEB0-67F910C85370",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1330,7 +1330,7 @@
           "ano" : 2026,
           "dia" : 27,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "4CB7E2AB-1B2C-4D4A-8AF0-C13342C23FFB",
+          "id" : "B91C4D65-396B-4028-AD5E-27182F7DA664",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1338,7 +1338,7 @@
           "ano" : 2026,
           "dia" : 28,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "95D5ED8C-7542-4A51-8C9A-EB250CED1269",
+          "id" : "E50C9004-77E5-4C97-8627-DA4EC3603AA0",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1346,7 +1346,7 @@
           "ano" : 2026,
           "dia" : 29,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "ACD4039E-BC9D-4235-B06E-3C0C2A780895",
+          "id" : "8BB1A1B4-E74F-4A39-8944-20C5B2AB99CB",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1354,7 +1354,7 @@
           "ano" : 2026,
           "dia" : 30,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "2E1C05AB-12BE-47B9-9F28-1CD31A8D5895",
+          "id" : "97E1B4B8-7622-4CD1-872F-4BFE72C68163",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         },
@@ -1362,7 +1362,7 @@
           "ano" : 2026,
           "dia" : 31,
           "fonte" : "TRT6, Portaria GP nº 495/2025, art. 1º (Lei nº 5.010/1966, art. 62, I)",
-          "id" : "7A64BE36-6575-4CE7-AFD8-E2A3AF291FE6",
+          "id" : "03C02223-012D-4B66-9C5F-D2D9604E2435",
           "mes" : 12,
           "nome" : "Recesso forense (feriado regimental)"
         }
@@ -1376,34 +1376,34 @@
     {
       "carnaval" : false,
       "corpusChristi" : false,
-      "id" : "2DC4E170-10AE-41B7-B02E-FD51E494DCD0",
+      "id" : "DEB42FBF-DF2E-4F0D-933C-D3851F028303",
       "linkCalendario" : "https://www.jfpe.jus.br/index.php/feriados.html",
       "locais" : [
         {
           "dia" : 6,
           "fonte" : "Lei Estadual nº 16.241/2017, art. 49",
-          "id" : "AC87F211-DAB0-4D6C-9744-B1C95A2DBE57",
+          "id" : "B6BD4284-0030-4BDA-9B0A-4D2F5D865464",
           "mes" : 3,
           "nome" : "Data Magna de Pernambuco"
         },
         {
           "dia" : 24,
           "fonte" : "Lei Municipal nº 9.777/1967",
-          "id" : "784B88CF-947A-44BF-BFFF-DDBFEF4CA262",
+          "id" : "08A296B2-5FD0-44EB-8C06-FD27284E0822",
           "mes" : 6,
           "nome" : "São João (Recife)"
         },
         {
           "dia" : 16,
           "fonte" : "Lei Municipal nº 9.777/1967",
-          "id" : "804686AF-AB68-47CA-99B9-15211E04B5C7",
+          "id" : "2EAFB630-55B5-43A5-9263-A18FA61E880F",
           "mes" : 7,
           "nome" : "Nossa Senhora do Carmo (Recife)"
         },
         {
           "dia" : 8,
           "fonte" : "Lei Municipal nº 9.777/1967; Lei nº 5.010/1966, art. 62, IV",
-          "id" : "58388859-9D5D-4E60-8B3C-27FD936503D8",
+          "id" : "646817C5-AF81-48F3-A85B-23CE0ACCA00C",
           "mes" : 12,
           "nome" : "Nossa Senhora da Conceição (Recife) / Dia da Justiça"
         },
@@ -1411,7 +1411,7 @@
           "ano" : 2026,
           "dia" : 18,
           "fonte" : "JFPE, Portaria nº 126/DF/2026 (Ato TRF5 nº 626/2025, art. 2º) — ponto facultativo sem expediente",
-          "id" : "7795D1CF-0A56-49E1-8E29-DBE3240B6711",
+          "id" : "47CF10E6-1B17-4409-BAA9-519A56FF5525",
           "mes" : 2,
           "nome" : "Quarta-feira de Cinzas"
         },
@@ -1419,7 +1419,7 @@
           "ano" : 2026,
           "dia" : 4,
           "fonte" : "JFPE, Portaria nº 126/DF/2026 (Ato TRF5 nº 626/2025, art. 2º) — ponto facultativo sem expediente",
-          "id" : "8C4B79CA-27DE-440C-9C15-E3042FE987F5",
+          "id" : "08471A0B-B83E-4F50-B7DA-9AA3F1B231BE",
           "mes" : 6,
           "nome" : "Corpus Christi"
         },
@@ -1427,7 +1427,7 @@
           "ano" : 2026,
           "dia" : 23,
           "fonte" : "JFPE, Portaria nº 126/DF/2026 (Ato TRF5 nº 626/2025, art. 2º) — ponto facultativo sem expediente",
-          "id" : "EB005F5C-B560-41F2-A934-76C4AFA469A6",
+          "id" : "65137F10-6E63-4B2D-B364-FD579F5BADFD",
           "mes" : 6,
           "nome" : "Véspera de São João"
         },
@@ -1435,7 +1435,7 @@
           "ano" : 2026,
           "dia" : 28,
           "fonte" : "JFPE, Portaria nº 126/DF/2026 (Ato TRF5 nº 626/2025, art. 2º) — ponto facultativo sem expediente",
-          "id" : "F5DD83AE-9DF7-4627-AB7B-52A338B4B22E",
+          "id" : "CCC57552-E226-4BC8-A8E4-F269B13D3F3C",
           "mes" : 10,
           "nome" : "Dia do Servidor Público (Lei nº 8.112/1990, art. 236)"
         }
@@ -1449,34 +1449,34 @@
     {
       "carnaval" : false,
       "corpusChristi" : false,
-      "id" : "F72B256C-EB46-4D52-8BCA-31C3E99B8EDC",
+      "id" : "5F9AA513-4C92-4308-BE60-9853E07D7C78",
       "linkCalendario" : "https://www.trf5.jus.br/index.php/feriados",
       "locais" : [
         {
           "dia" : 6,
           "fonte" : "Lei Estadual nº 16.241/2017, art. 49",
-          "id" : "5A7F01CB-9622-4B7C-AD54-345B5A566722",
+          "id" : "098E5512-7198-4C6C-8D6D-26E58D39DB92",
           "mes" : 3,
           "nome" : "Data Magna de Pernambuco"
         },
         {
           "dia" : 24,
           "fonte" : "Lei Municipal nº 9.777/1967",
-          "id" : "EA2206DC-FABD-4731-BE5F-A4E9438CD091",
+          "id" : "64DEAA19-5CA3-44BA-9159-B973445BFE5A",
           "mes" : 6,
           "nome" : "São João (Recife)"
         },
         {
           "dia" : 16,
           "fonte" : "Lei Municipal nº 9.777/1967",
-          "id" : "64448550-9BCB-4D6E-B90C-DFBC44E02439",
+          "id" : "BA763E96-47B4-4AEA-96E5-D005FB29DDCE",
           "mes" : 7,
           "nome" : "Nossa Senhora do Carmo (Recife)"
         },
         {
           "dia" : 8,
           "fonte" : "Lei Municipal nº 9.777/1967; Lei nº 5.010/1966, art. 62, IV",
-          "id" : "6FCBE6F1-AF7A-4410-B250-3C3854A6A5E3",
+          "id" : "374A90FE-D1CC-4A8D-B266-37CD47C7DE9E",
           "mes" : 12,
           "nome" : "Nossa Senhora da Conceição (Recife) / Dia da Justiça"
         },
@@ -1484,7 +1484,7 @@
           "ano" : 2026,
           "dia" : 18,
           "fonte" : "TRF5, Ato nº 626/2025, art. 2º — ponto facultativo sem expediente; prazos prorrogados",
-          "id" : "C58BC4DC-ABDB-47C6-A389-22E0D0BE5181",
+          "id" : "C31BBC90-27D2-451A-9B88-5C2CEBEA924B",
           "mes" : 2,
           "nome" : "Quarta-feira de Cinzas"
         },
@@ -1492,7 +1492,7 @@
           "ano" : 2026,
           "dia" : 4,
           "fonte" : "TRF5, Ato nº 626/2025, art. 2º — ponto facultativo sem expediente; prazos prorrogados",
-          "id" : "A1C6869A-E8E5-4C7C-B4FF-638537E88697",
+          "id" : "923483E9-2C14-4916-8168-573D731D2A91",
           "mes" : 6,
           "nome" : "Corpus Christi"
         },
@@ -1500,7 +1500,7 @@
           "ano" : 2026,
           "dia" : 23,
           "fonte" : "TRF5, Ato nº 626/2025, art. 2º — ponto facultativo sem expediente; prazos prorrogados",
-          "id" : "79EC0A68-C0FA-46E9-9726-9CF200EF90E9",
+          "id" : "E12DE641-586B-41F0-9D1F-36D2966A9684",
           "mes" : 6,
           "nome" : "Véspera de São João"
         },
@@ -1508,7 +1508,7 @@
           "ano" : 2026,
           "dia" : 28,
           "fonte" : "TRF5, Ato nº 626/2025, art. 2º — ponto facultativo sem expediente; prazos prorrogados",
-          "id" : "162543C0-8D8F-4E55-ADCD-601345C23CC5",
+          "id" : "9FBA42FC-02C0-41E7-9D29-DBCDF584A93E",
           "mes" : 10,
           "nome" : "Dia do Servidor Público (Lei nº 8.112/1990, art. 236)"
         }
@@ -1522,7 +1522,7 @@
     {
       "carnaval" : true,
       "corpusChristi" : true,
-      "id" : "0DD01149-571E-472D-9097-AA1EF7C4A619",
+      "id" : "44BC1EC0-2D9C-460F-8509-88C984A6919A",
       "linkCalendario" : "",
       "locais" : [
 
@@ -1536,7 +1536,7 @@
     {
       "carnaval" : true,
       "corpusChristi" : true,
-      "id" : "BC91D60A-98D6-4A4F-82F7-69A1786115BD",
+      "id" : "64B122FF-ED3C-44D8-A3D2-2F16B0CBE713",
       "linkCalendario" : "",
       "locais" : [
 
@@ -1550,7 +1550,7 @@
     {
       "carnaval" : false,
       "corpusChristi" : false,
-      "id" : "F0C9BA01-097F-4000-A837-D07BD0FF0F6B",
+      "id" : "B90AA9F1-AE2A-468E-BE28-60AFCE9EAF39",
       "linkCalendario" : "",
       "locais" : [
 
